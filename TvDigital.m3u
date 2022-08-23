@@ -366,8 +366,8 @@ http://138.36.253.14:8010/play/a01l/index.m3u8
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream05/streamPlaylist.m3u8
 #EXTINF:-1 tvg-chno="202" tvg-id="CGTNEspanol.cn" tvg-name="CGTNEspanol.cn" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/CGTN_Espanol.png" group-title="INTERNACIONALES",CGTN Español
 https://livees.cgtn.com/1000e/prog_index.m3u8
-#EXTINF:-1 tvg-chno="204" tvg-id="TelefeNoticias.mx" tvg-name="TelefeNoticias.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ed/Telefe_Internacional_%282018%29.png" group-title="INTERNACIONALES",Telefe
-http://168.197.196.98:9981/stream/channelid/1525399664?Telefe
+#EXTINF:-1 tvg-chno="204" tvg-id="TelefeNoticias.mx" tvg-name="TelefeNoticias.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/Telefe-logo-1.jpg" group-title="INTERNACIONALES",Telefe
+http://168.197.196.98:9981/stream/channelid/1525399664?TelefeA
 
 #EXTINF:-1 tvg-chno="205" tvg-id="El13.ar" tvg-name="El13.ar" tvg-logo="https://static.wikia.nocookie.net/tvcable/images/1/19/ElTreceInternacional2017.png/revision/latest/scale-to-width-down/982?cb=20200116023058&path-prefix=es" group-title="INTERNACIONALES",El Trece Internacional
 http://170.83.242.30:5001/play/a0an
