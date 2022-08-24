@@ -367,12 +367,12 @@ http://unlimited6-us.dps.live/nettv/nettv.smil/nettv/livestream1/chunks.m3u8
 http://iptv.premiumstore.biz:8080/Osv4ldoB4eza/Osv4ldoB4eza1/7507
 #EXTINF:-1 tvg-chno="209" tvg-id="Canal9.ar" tvg-name="Canal9.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/Canal_9_2015.png" group-title="INTERNACIONALES",El Nueve
 http://168.197.196.98:9981/stream/channelid/757146455?El Nueve
-#EXTINF:-1 tvg-chno="211" tvg-id="HBOLatinAmerica.pa" tvg-name="HBOLatinAmerica.pa" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1920px-HBO_logo.svg.png" group-title="HBO PREMIUM",HBO
-http://45.232.210.1:47000/play/a08o
-#EXTINF:-1 tvg-chno="213" tvg-id="HBO2LatinAmerica.pa" tvg-name="HBO2LatinAmerica.pa" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/HBO2_logo.svg/1920px-HBO2_logo.svg.png" group-title="HBO PREMIUM",HBO 2
+#EXTINF:-1 tvg-chno="211" tvg-id="HBO.pa" tvg-name="HBO.pa" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1920px-HBO_logo.svg.png" group-title="HBO PREMIUM",HBO
+http://168.197.196.98:9981/stream/channelid/1949370468?profile=pass
+#EXTINF:-1 tvg-chno="213" tvg-id="HBO2.pa" tvg-name="HBO2.pa" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/HBO2_logo.svg/1920px-HBO2_logo.svg.png" group-title="HBO PREMIUM",HBO 2
 http://170.83.242.30:5001/play/a045
-#EXTINF:-1 tvg-chno="215" tvg-id="HBOFamilyLatinAmerica.pa" tvg-name="HBOFamilyLatinAmerica.pa" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/HBO_Family.svg/1280px-HBO_Family.svg.png" group-title="HBO PREMIUM",HBO Family 
-#EXTINF:-1 tvg-chno="216" tvg-id="HBOPopPanamerica.pa" tvg-name="HBOPopPanamerica.pa" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/HBO_Pop.svg/1280px-HBO_Pop.svg.png" g"HBO PREMIUM",HBO Pop
+#EXTINF:-1 tvg-chno="215" tvg-id="HBOFamily.pa" tvg-name="HBOFamily.pa" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/HBO_Family.svg/1280px-HBO_Family.svg.png" group-title="HBO PREMIUM",HBO Family 
+#EXTINF:-1 tvg-chno="216" tvg-id="HBOPop.pa" tvg-name="HBOPop.pa" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/HBO_Pop.svg/1280px-HBO_Pop.svg.png" g"HBO PREMIUM",HBO Pop
 http://45.169.148.29:8000/play/a10v/index.m3u8
 #EXTINF:-1 tvg-chno="218" tvg-id="HBOPlus.pa" tvg-name="HBOPlus.pa" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Logohboplus2019.svg/1920px-Logohboplus2019.svg.png" group-title="HBO PREMIUM",HBO Plus
 http://170.83.242.30:5001/play/a043
