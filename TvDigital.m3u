@@ -358,7 +358,7 @@ https://livees.cgtn.com/1000e/prog_index.m3u8
 #EXTINF:-1 tvg-chno="204" tvg-id="Telefe.ar" tvg-name="Telefe.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/Telefe-logo-1.jpg" group-title="INTERNACIONALES",Telefe
 http://168.197.196.98:9981/stream/channelid/1525399664?TelefeA
 #EXTINF:-1 tvg-chno="205" tvg-id="El13.ar" tvg-name="El13.ar" tvg-logo="https://static.wikia.nocookie.net/tvcable/images/1/19/ElTreceInternacional2017.png/revision/latest/scale-to-width-down/982?cb=20200116023058&path-prefix=es" group-title="INTERNACIONALES",El Trece
-http://170.83.242.30:5001/play/a0an
+http://168.197.196.98:9981/stream/channelid/249944096?profile=pass
 #EXTINF:-1 tvg-chno="206" tvg-id="America.ar" tvg-name="America.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png" group-title="INTERNACIONALES",América TV
 http://iptv.premiumstore.biz:8080/Osv4ldoB4eza/Osv4ldoB4eza1/17834
 #EXTINF:-1 tvg-chno="207" tvg-id="NetTV.ar" tvg-name="NetTV.ar" tvg-logo="https://canalnet.tv/_templates/desktop/includes/img/_logo-alt.png" group-title="INTERNACIONALES",Net TV
