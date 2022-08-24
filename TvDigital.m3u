@@ -31,8 +31,6 @@ http://elmasteriptv.com:8000/sebastian.conchabaeza@gmail.com/cOxaZIJb1l/16664
 http://190.108.87.149:8000/play/a063/index.m3u8
 #EXTINF:-1 tvg-chno="23" tvg-id="FoxSports4.mx" tvg-name="FoxSports4.mx" tvg-logo="https://i.imgur.com/6DTF8bQ.png" group-title="DEPORTES",ESPN 4 (Centroamérica)
 http://190.108.87.149:8000/play/a05z/index.m3u8
-#EXTINF:-1 tvg-chno="24" tvg-id="ESPNExtraLatAm.co" tvg-name="ESPNExtraLatAm.co" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Espn_extra_2015.PNG" group-title="DEPORTES",ESPN Extra
-http://45.232.210.1:47000/play/a05e
 #EXTINF:-1 tvg-chno="25" tvg-id="ESPNDeportes.us" tvg-name="ESPNDeportes.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Espn_deportes.svg/1920px-Espn_deportes.svg.png" group-title="DEPORTES",ESPN Deportes
 http://iptv.premiumstore.biz:8080/Osv4ldoB4eza/Osv4ldoB4eza1/264
 #EXTINF:-1 tvg-chno="26" tvg-id="" tvg-name="ESPN Premium" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ESPN_Premium_logo.svg/320px-ESPN_Premium_logo.svg.png" group-title="DEPORTES",ESPN Premium (Argentina)
@@ -368,7 +366,6 @@ https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream05/strea
 https://livees.cgtn.com/1000e/prog_index.m3u8
 #EXTINF:-1 tvg-chno="204" tvg-id="TelefeNoticias.mx" tvg-name="TelefeNoticias.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/Telefe-logo-1.jpg" group-title="INTERNACIONALES",Telefe
 http://168.197.196.98:9981/stream/channelid/1525399664?TelefeA
-
 #EXTINF:-1 tvg-chno="205" tvg-id="El13.ar" tvg-name="El13.ar" tvg-logo="https://static.wikia.nocookie.net/tvcable/images/1/19/ElTreceInternacional2017.png/revision/latest/scale-to-width-down/982?cb=20200116023058&path-prefix=es" group-title="INTERNACIONALES",El Trece Internacional
 http://170.83.242.30:5001/play/a0an
 #EXTINF:-1 tvg-chno="206" tvg-id="America2.ar" tvg-name="America2.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png" group-title="INTERNACIONALES",América TV
@@ -379,22 +376,13 @@ http://unlimited6-us.dps.live/nettv/nettv.smil/nettv/livestream1/chunks.m3u8
 http://iptv.premiumstore.biz:8080/Osv4ldoB4eza/Osv4ldoB4eza1/7507
 #EXTINF:-1 tvg-chno="209" tvg-id="Canal9.ar" tvg-name="Canal9.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/Canal_9_2015.png" group-title="INTERNACIONALES",El Nueve
 http://168.197.196.98:9981/stream/channelid/757146455?El Nueve
-#EXTINF:-1 tvg-chno="210" tvg-id="" tvg-name="HBO Chile" tvg-logo="https://www.seekpng.com/png/full/223-2235434_hbo-logo-blue-hbo-logo-png-transparent.png" group-title="HBO PREMIUM",HBO Chile
-http://138.36.253.14:8010/play/a01s/index.m3u8
-#EXTINF:-1 tvg-chno="211" tvg-id="HBOLatinAmerica.pa" tvg-name="HBOLatinAmerica.pa" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1920px-HBO_logo.svg.png" group-title="HBO PREMIUM",HBO Este
+#EXTINF:-1 tvg-chno="211" tvg-id="HBOLatinAmerica.pa" tvg-name="HBOLatinAmerica.pa" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1920px-HBO_logo.svg.png" group-title="HBO PREMIUM",HBO
 http://45.232.210.1:47000/play/a08o
-#EXTINF:-1 tvg-chno="212" tvg-id="HBOOestePanamericano.pa" tvg-name="HBOOestePanamericano.pa" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1920px-HBO_logo.svg.png" group-title="HBO PREMIUM",HBO Oeste
-http://190.108.87.149:8000/play/a0d6/index.m3u8
-#EXTINF:-1 tvg-chno="213" tvg-id="HBO2LatinAmerica.pa" tvg-name="HBO2LatinAmerica.pa" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/HBO2_logo.svg/1920px-HBO2_logo.svg.png" group-title="HBO PREMIUM",HBO 2 Este
+#EXTINF:-1 tvg-chno="213" tvg-id="HBO2LatinAmerica.pa" tvg-name="HBO2LatinAmerica.pa" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/HBO2_logo.svg/1920px-HBO2_logo.svg.png" group-title="HBO PREMIUM",HBO 2
 http://170.83.242.30:5001/play/a045
-#EXTINF:-1 tvg-chno="214" tvg-id="HBO2.mx" tvg-name="HBO2.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/HBO2_logo.svg/1920px-HBO2_logo.svg.png" group-title="HBO PREMIUM",HBO 2 Oeste
-http://190.108.87.149:8000/play/a0d7/index.m3u8
-#EXTINF:-1 tvg-chno="215" tvg-id="HBOFamilyLatinAmerica.pa" tvg-name="HBOFamilyLatinAmerica.pa" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/HBO_Family.svg/1280px-HBO_Family.svg.png" group-title="HBO PREMIUM",HBO Family
-http://190.108.87.149:8000/play/a0d9/index.m3u8
-#EXTINF:-1 tvg-chno="216" tvg-id="HBOPopPanamerica.pa" tvg-name="HBOPopPanamerica.pa" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/HBO_Pop.svg/1280px-HBO_Pop.svg.png" group-title="HBO PREMIUM",HBO Pop Este
+#EXTINF:-1 tvg-chno="215" tvg-id="HBOFamilyLatinAmerica.pa" tvg-name="HBOFamilyLatinAmerica.pa" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/HBO_Family.svg/1280px-HBO_Family.svg.png" group-title="HBO PREMIUM",HBO Family 
+#EXTINF:-1 tvg-chno="216" tvg-id="HBOPopPanamerica.pa" tvg-name="HBOPopPanamerica.pa" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/HBO_Pop.svg/1280px-HBO_Pop.svg.png" g"HBO PREMIUM",HBO Pop
 http://45.169.148.29:8000/play/a10v/index.m3u8
-#EXTINF:-1 tvg-chno="217" tvg-id="HBOPopMexicoAndCaribbean.mx" tvg-name="HBOPopMexicoAndCaribbean.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/HBO_Pop.svg/1280px-HBO_Pop.svg.png" group-title="HBO PREMIUM",HBO Pop Oeste
-http://iptv.premiumstore.biz:8080/Osv4ldoB4eza/Osv4ldoB4eza1/58807
 #EXTINF:-1 tvg-chno="218" tvg-id="HBOPlusPanamericano.pa" tvg-name="HBOPlusPanamericano.pa" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Logohboplus2019.svg/1920px-Logohboplus2019.svg.png" group-title="HBO PREMIUM",HBO Plus Este
 http://170.83.242.30:5001/play/a043
 #EXTINF:-1 tvg-chno="219" tvg-id="HBOPlus.mx" tvg-name="HBOPlus.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Logohboplus2019.svg/1920px-Logohboplus2019.svg.png" group-title="HBO PREMIUM",HBO Plus Oeste
