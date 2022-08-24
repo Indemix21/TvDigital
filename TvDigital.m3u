@@ -9,8 +9,6 @@ http://45.232.210.1:47000/play/a06r
 http://45.232.210.1:47000/play/a08g
 #EXTINF:-1 tvg-chno="5" tvg-id="Chilevision.cl" tvg-name="Chilevision.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Chilevisi%C3%B3n.svg/1920px-Chilevisi%C3%B3n.svg.png" group-title="NACIONALES",Chilevisión
 http://45.232.210.1:47000/play/a08n
-#EXTINF:-1 tvg-chno="6" tvg-id="Canal13.cl" tvg-name="Canal 13.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Logotipo_de_Canal_13.svg/1280px-Logotipo_de_Canal_13.svg.png" group-title="NACIONALES",Canal 13
-http://45.232.210.1:47000/play/a07a
 #EXTINF:-1 tvg-chno="7" tvg-id="CNNChile.cl" tvg-name="CNNChile.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/CNN_Chile_logo_2017.svg/512px-CNN_Chile_logo_2017.svg.png" group-title="NACIONALES",CNN Chile
 http://45.232.210.1:47000/play/cnnchilehd
 #EXTINF:-1 tvg-chno="8" tvg-id="TVN24.cl" tvg-name="TVN24.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Logo_24HorasTVN.svg/1920px-Logo_24HorasTVN.svg.png" group-title="NACIONALES",Canal 24 Horas
@@ -21,21 +19,17 @@ http://168.197.196.98:9981/stream/channelid/1510960?TNT Sports HD
 http://iptv.wtf:80/live/tjpyuhim/Mfy33Xhs96/6818.ts
 #EXTINF:-1 tvg-chno="11" tvg-id="TNTSports3.cl" tvg-name="TNTSports3.cl" tvg-logo="https://i.imgur.com/XgjZPy3.png" group-title="DEPORTES",TNT Sports 3
 http://live1.cl.cdn.lla.vtrplay.com/tntsports3hdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
-#EXTINF:-1 tvg-chno="13" tvg-id="ESPN2.ar" tvg-name="ESPN2.ar" tvg-logo="https://i.imgur.com/2WODtEc.png" group-title="DEPORTES",ESPN (Argentina)
+#EXTINF:-1 tvg-chno="13" tvg-id="ESPN2.ar" tvg-name="ESPN2.ar" tvg-logo="https://i.imgur.com/2WODtEc.png" group-title="DEPORTES",ESPN
 http://iptv.premiumstore.biz:8080/Osv4ldoB4eza/Osv4ldoB4eza1/3117
-#EXTINF:-1 tvg-chno="16" tvg-id="ESPN.ar" tvg-name="ESPN.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/1920px-ESPN2_logo.svg.png" group-title="DEPORTES",ESPN 2 (Argentina)
+#EXTINF:-1 tvg-chno="16" tvg-id="ESPN.ar" tvg-name="ESPN.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/1920px-ESPN2_logo.svg.png" group-title="DEPORTES",ESPN 2
 http://elmasteriptv.com:8000/sebastian.conchabaeza@gmail.com/cOxaZIJb1l/31740
-#EXTINF:-1 tvg-chno="19" tvg-id="ESPN3.ar" tvg-name="ESPN3.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/ESPN3_Logo.png" group-title="DEPORTES",ESPN 3 (Argentina)
+#EXTINF:-1 tvg-chno="19" tvg-id="ESPN3.ar" tvg-name="ESPN3.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/ESPN3_Logo.png" group-title="DEPORTES",ESPN 3
 http://elmasteriptv.com:8000/sebastian.conchabaeza@gmail.com/cOxaZIJb1l/16664
-#EXTINF:-1 tvg-chno="21" tvg-id="ESPN3LatAmNorth.pa" tvg-name="ESPN3LatAmNorth.pa" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/ESPN3_Logo.png" group-title="DEPORTES",ESPN 3 (Centroamérica)
-http://190.108.87.149:8000/play/a063/index.m3u8
-#EXTINF:-1 tvg-chno="23" tvg-id="FoxSports4.mx" tvg-name="FoxSports4.mx" tvg-logo="https://i.imgur.com/6DTF8bQ.png" group-title="DEPORTES",ESPN 4 (Centroamérica)
-http://190.108.87.149:8000/play/a05z/index.m3u8
 #EXTINF:-1 tvg-chno="25" tvg-id="ESPNDeportes.us" tvg-name="ESPNDeportes.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Espn_deportes.svg/1920px-Espn_deportes.svg.png" group-title="DEPORTES",ESPN Deportes
 http://iptv.premiumstore.biz:8080/Osv4ldoB4eza/Osv4ldoB4eza1/264
-#EXTINF:-1 tvg-chno="26" tvg-id="" tvg-name="ESPN Premium" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ESPN_Premium_logo.svg/320px-ESPN_Premium_logo.svg.png" group-title="DEPORTES",ESPN Premium (Argentina)
+#EXTINF:-1 tvg-chno="26" tvg-id="" tvg-name="ESPN Premium" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ESPN_Premium_logo.svg/320px-ESPN_Premium_logo.svg.png" group-title="DEPORTES",ESPN Premium
 http://168.197.196.98:9981/stream/channelid/1115927856?ESPN Premium
-#EXTINF:-1 tvg-chno="29" tvg-id="610DTSA.ar" tvg-name="610DTSA.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/DirecTV_Sports_Latin_America_%282018%29.png" group-title="DEPORTES",DIRECTV Sports (Argentina)
+#EXTINF:-1 tvg-chno="29" tvg-id="610DTSA.ar" tvg-name="610DTSA.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/DirecTV_Sports_Latin_America_%282018%29.png" group-title="DEPORTES",DIRECTV Sports
 http://live.detodotvplay.com:8080/normie_3073/n0rm3e73/167
 #EXTINF:-1 tvg-chno="32" tvg-id="" tvg-name="DIRECTV Sports Fight" tvg-logo="https://seeklogo.com/images/D/directv-sports-fight-logo-BBD16A544F-seeklogo.com.png" group-title="DEPORTES",DIRECTV Sports Fight
 http://iptv.premiumstore.biz:8080/Osv4ldoB4eza/Osv4ldoB4eza1/100219
@@ -47,10 +41,8 @@ http://45.232.210.1:47000/play/a07k
 http://45.232.210.1:47000/play/a0at
 #EXTINF:-1 tvg-chno="36" tvg-id="FOXSports3.ar" tvg-name="FOXSports3.ar" tvg-logo="https://i.imgur.com/t29qFFh.png" group-title="DEPORTES",FOX Sports 3
 http://45.232.210.1:47000/play/foxsports3hd
-#EXTINF:-1 tvg-chno="39" tvg-id="TycSports.ar" tvg-name="TycSports.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TyC_Sports_logo.svg/1920px-TyC_Sports_logo.svg.png" group-title="DEPORTES",TyC Sports (Argentina)
+#EXTINF:-1 tvg-chno="39" tvg-id="TycSports.ar" tvg-name="TycSports.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TyC_Sports_logo.svg/1920px-TyC_Sports_logo.svg.png" group-title="DEPORTES",TyC Sports
 http://iptv.premiumstore.biz:8080/Osv4ldoB4eza/Osv4ldoB4eza1/296
-#EXTINF:-1 tvg-chno="40" tvg-id="TorneosCompetencias.ar" tvg-name="TorneosCompetencias.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TyC_Sports_logo.svg/1920px-TyC_Sports_logo.svg.png" group-title="DEPORTES",TyC Sports (Internacional)
-http://170.83.242.30:5001/play/a04t
 #EXTINF:-1 tvg-chno="42" tvg-id="TUDN.us" tvg-name="TUDN.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/1920px-TUDN_Logo.svg.png" group-title="DEPORTES",TUDN
 http://line.thesmartiptv.com:900/2863259172/6796177544/176898
 #EXTINF:-1 tvg-chno="43" tvg-id="ClaroSports.co" tvg-name="ClaroSports.co" tvg-logo="https://i.imgur.com/fbKQZ1X.png" group-title="DEPORTES",Claro Sports
@@ -363,11 +355,11 @@ http://138.36.253.14:8010/play/a01l/index.m3u8
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream05/streamPlaylist.m3u8
 #EXTINF:-1 tvg-chno="202" tvg-id="CGTNEspanol.cn" tvg-name="CGTNEspanol.cn" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/CGTN_Espanol.png" group-title="INTERNACIONALES",CGTN Español
 https://livees.cgtn.com/1000e/prog_index.m3u8
-#EXTINF:-1 tvg-chno="204" tvg-id="TelefeNoticias.mx" tvg-name="TelefeNoticias.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/Telefe-logo-1.jpg" group-title="INTERNACIONALES",Telefe
+#EXTINF:-1 tvg-chno="204" tvg-id="Telefe.ar" tvg-name="Telefe.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/Telefe-logo-1.jpg" group-title="INTERNACIONALES",Telefe
 http://168.197.196.98:9981/stream/channelid/1525399664?TelefeA
-#EXTINF:-1 tvg-chno="205" tvg-id="El13.ar" tvg-name="El13.ar" tvg-logo="https://static.wikia.nocookie.net/tvcable/images/1/19/ElTreceInternacional2017.png/revision/latest/scale-to-width-down/982?cb=20200116023058&path-prefix=es" group-title="INTERNACIONALES",El Trece Internacional
+#EXTINF:-1 tvg-chno="205" tvg-id="El13.ar" tvg-name="El13.ar" tvg-logo="https://static.wikia.nocookie.net/tvcable/images/1/19/ElTreceInternacional2017.png/revision/latest/scale-to-width-down/982?cb=20200116023058&path-prefix=es" group-title="INTERNACIONALES",El Trece
 http://170.83.242.30:5001/play/a0an
-#EXTINF:-1 tvg-chno="206" tvg-id="America2.ar" tvg-name="America2.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png" group-title="INTERNACIONALES",América TV
+#EXTINF:-1 tvg-chno="206" tvg-id="America.ar" tvg-name="America.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png" group-title="INTERNACIONALES",América TV
 http://iptv.premiumstore.biz:8080/Osv4ldoB4eza/Osv4ldoB4eza1/17834
 #EXTINF:-1 tvg-chno="207" tvg-id="NetTV.ar" tvg-name="NetTV.ar" tvg-logo="https://canalnet.tv/_templates/desktop/includes/img/_logo-alt.png" group-title="INTERNACIONALES",Net TV
 http://unlimited6-us.dps.live/nettv/nettv.smil/nettv/livestream1/chunks.m3u8
@@ -382,22 +374,16 @@ http://170.83.242.30:5001/play/a045
 #EXTINF:-1 tvg-chno="215" tvg-id="HBOFamilyLatinAmerica.pa" tvg-name="HBOFamilyLatinAmerica.pa" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/HBO_Family.svg/1280px-HBO_Family.svg.png" group-title="HBO PREMIUM",HBO Family 
 #EXTINF:-1 tvg-chno="216" tvg-id="HBOPopPanamerica.pa" tvg-name="HBOPopPanamerica.pa" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/HBO_Pop.svg/1280px-HBO_Pop.svg.png" g"HBO PREMIUM",HBO Pop
 http://45.169.148.29:8000/play/a10v/index.m3u8
-#EXTINF:-1 tvg-chno="218" tvg-id="HBOPlusPanamericano.pa" tvg-name="HBOPlusPanamericano.pa" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Logohboplus2019.svg/1920px-Logohboplus2019.svg.png" group-title="HBO PREMIUM",HBO Plus Este
+#EXTINF:-1 tvg-chno="218" tvg-id="HBOPlus.pa" tvg-name="HBOPlus.pa" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Logohboplus2019.svg/1920px-Logohboplus2019.svg.png" group-title="HBO PREMIUM",HBO Plus
 http://170.83.242.30:5001/play/a043
-#EXTINF:-1 tvg-chno="219" tvg-id="HBOPlus.mx" tvg-name="HBOPlus.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Logohboplus2019.svg/1920px-Logohboplus2019.svg.png" group-title="HBO PREMIUM",HBO Plus Oeste
-http://190.108.87.149:8000/play/a0d8/index.m3u8
-#EXTINF:-1 tvg-chno="220" tvg-id="HBOXtremePanamerica.pa" tvg-name="HBOXtremePanamerica.pa" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/1280px-HBO_Xtreme.svg.png" group-title="HBO PREMIUM",HBO Xtreme Este
+#EXTINF:-1 tvg-chno="220" tvg-id="HBOXtreme.pa" tvg-name="HBOXtreme.pa" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/1280px-HBO_Xtreme.svg.png" group-title="HBO PREMIUM",HBO Xtreme
 http://45.232.210.1:47000/play/a0fb
-#EXTINF:-1 tvg-chno="221" tvg-id="HBOXtreme.mx" tvg-name="HBOXtreme.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/1280px-HBO_Xtreme.svg.png" group-title="HBO PREMIUM",HBO Xtreme Oeste
-http://190.108.87.149:8000/play/a0da/index.m3u8
-#EXTINF:-1 tvg-chno="222" tvg-id="HBOSignatureLatinAmerica.pa" tvg-name="HBOSignatureLatinAmerica.pa" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/HBO_Signature.svg/1920px-HBO_Signature.svg.png" group-title="HBO PREMIUM",HBO Signature
+#EXTINF:-1 tvg-chno="222" tvg-id="HBOSignature.pa" tvg-name="HBOSignature.pa" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/HBO_Signature.svg/1920px-HBO_Signature.svg.png" group-title="HBO PREMIUM",HBO Signature
 http://170.83.242.30:5001/play/a048
-#EXTINF:-1 tvg-chno="223" tvg-id="HBOMundiPanAmerican.pa" tvg-name="HBOMundiPanAmerican.pa" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/HBO_Mundi.svg/1280px-HBO_Mundi.svg.png" group-title="HBO PREMIUM",HBO Mundi Este
+#EXTINF:-1 tvg-chno="223" tvg-id="HBOMundi.pa" tvg-name="HBOMundi.pa" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/HBO_Mundi.svg/1280px-HBO_Mundi.svg.png" group-title="HBO PREMIUM",HBO Mundi
 http://170.83.242.30:5001/play/a04v
-#EXTINF:-1 tvg-chno="225" tvg-id="" tvg-name="Universal Premiere Este" tvg-logo="https://universalplus.com/files/channels/398064723.png" group-title="UNIVERSAL PLUS",Universal Premiere Este
+#EXTINF:-1 tvg-chno="225" tvg-id="" tvg-name="Universal Premiere Este" tvg-logo="https://universalplus.com/files/channels/398064723.png" group-title="UNIVERSAL PLUS",Universal Premiere
 http://190.108.87.149:8000/play/a0if/index.m3u8
-#EXTINF:-1 tvg-chno="226" tvg-id="" tvg-name="Universal Premiere Oeste" tvg-logo="https://universalplus.com/files/channels/398064723.png" group-title="UNIVERSAL PLUS",Universal Premiere Oeste
-http://190.108.87.149:8000/play/a0il/index.m3u8
 #EXTINF:-1 tvg-chno="227" tvg-id="" tvg-name="Universal Crime" tvg-logo="https://universalplus.com/files/channels/780277389.png" group-title="UNIVERSAL PLUS",Universal Crime
 http://190.108.87.149:8000/play/a0in/index.m3u8
 #EXTINF:-1 tvg-chno="228" tvg-id="" tvg-name="Universal Cinema" tvg-logo="https://universalplus.com/files/channels/731381553.png" group-title="UNIVERSAL PLUS",Universal Cinema
