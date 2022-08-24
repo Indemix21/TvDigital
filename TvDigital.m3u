@@ -373,7 +373,7 @@ http://168.197.196.98:9981/stream/channelid/1949370468?profile=pass
 http://170.83.242.30:5001/play/a045
 #EXTINF:-1 tvg-chno="215" tvg-id="HBOFamily.pa" tvg-name="HBOFamily.pa" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/HBO_Family.svg/1280px-HBO_Family.svg.png" group-title="HBO PREMIUM",HBO Family 
 #EXTINF:-1 tvg-chno="216" tvg-id="HBOPop.pa" tvg-name="HBOPop.pa" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/HBO_Pop.svg/1280px-HBO_Pop.svg.png" g"HBO PREMIUM",HBO Pop
-http://45.169.148.29:8000/play/a10v/index.m3u8
+http://168.197.196.98:9981/stream/channelid/1788639192?profile=pass
 #EXTINF:-1 tvg-chno="218" tvg-id="HBOPlus.pa" tvg-name="HBOPlus.pa" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Logohboplus2019.svg/1920px-Logohboplus2019.svg.png" group-title="HBO PREMIUM",HBO Plus
 http://170.83.242.30:5001/play/a043
 #EXTINF:-1 tvg-chno="220" tvg-id="HBOXtreme.pa" tvg-name="HBOXtreme.pa" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/1280px-HBO_Xtreme.svg.png" group-title="HBO PREMIUM",HBO Xtreme
