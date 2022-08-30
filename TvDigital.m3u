@@ -120,7 +120,7 @@ http://45.225.95.170:8005/play/a037
 #EXTINF:-1 tvg-chno="79" tvg-id="Cinecanal.ar" tvg-name="Cinecanal.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/CinecanalLA.png" group-title="CINE Y SERIES",Cinecanal
 http://45.232.210.1:47000/play/a05c
 #EXTINF:-1 tvg-chno="80" tvg-id="Cinemax.cl" tvg-name="Cinemax.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cinemax_%28Yellow%29.svg/1920px-Cinemax_%28Yellow%29.svg.png" group-title="CINE Y SERIES",Cinemax
-http://45.232.210.1:47000/play/cinemaxhd
+http://168.197.196.98:9981/stream/channelid/454616245?profile=pass
 #EXTINF:-1 tvg-chno="81" tvg-id="FX.ar" tvg-name="FX.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/1920px-FX_International_logo.svg.png" group-title="CINE Y SERIES",FX
 http://45.232.210.1:47000/play/a0aw
 #EXTINF:-1 tvg-chno="82" tvg-id="UniversalChannel.ar" tvg-name="UniversalChannel.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Universal_TV_logo.svg/1920px-Universal_TV_logo.svg.png" group-title="CINE Y SERIES",Universal TV
