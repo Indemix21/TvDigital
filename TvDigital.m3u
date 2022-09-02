@@ -1073,7 +1073,7 @@ http://168.197.196.98:9981/stream/channelid/1525399664?profile=pass
 #EXTINF:-1 tvg-chno="205" tvg-id="El13.ar" tvg-name="El13.ar" tvg-logo="https://static.wikia.nocookie.net/tvcable/images/1/19/ElTreceInternacional2017.png/revision/latest/scale-to-width-down/982?cb=20200116023058&path-prefix=es" group-title="INTERNACIONALES",El Trece
 
 
-http://168.197.196.98:9981/stream/channelid/249944096?profile=pass
+http://45.232.210.1:47000/play/a07a
 
 
 #EXTINF:-1 tvg-chno="206" tvg-id="America.ar" tvg-name="America.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png" group-title="INTERNACIONALES",América TV
