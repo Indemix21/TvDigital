@@ -1174,6 +1174,6 @@ http://190.108.87.149:8000/play/a0io/index.m3u8
 
 http://190.108.87.149:8000/play/a0im/index.m3u8
 
-EXTINF:-1 tvg-chno="231" tvg-id="" tvg-name="Venus" tvg-logo="http://2.bp.blogspot.com/-QQn_BmLVuUs/U2ebJFDQasI/AAAAAAAAlW4/5IV3hDeuhhk/s1600/venus2014.png" group-title="ADULTO",Venus
+#EXTINF:-1 tvg-chno="231" tvg-id="" tvg-name="Venus" tvg-logo="http://2.bp.blogspot.com/-QQn_BmLVuUs/U2ebJFDQasI/AAAAAAAAlW4/5IV3hDeuhhk/s1600/venus2014.png" group-title="ADULTO",Venus
 http://170.83.242.9:5350/play/a00z
 
