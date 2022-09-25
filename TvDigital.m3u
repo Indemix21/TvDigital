@@ -779,3 +779,11 @@ http://190.108.87.149:8000/play/a0io/index.m3u8
 #EXTINF:-1 tvg-chno="230" tvg-id="" tvg-name="Universal Reality" tvg-logo="https://universalplus.com/files/channels/120254749.png" group-title="UNIVERSAL PLUS",Universal Reality
 
 http://190.108.87.149:8000/play/a0im/index.m3u8
+
+#EXTINF:-1 tvg-chno="231" tvg-id="" tvg-name="LOS SIMPSONS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Logo_The_Simpsons.svg/300px-Logo_The_Simpsons.svg.png" group-title="CANALES 24/7",LOS SIMPSONS
+
+https://videostreaming.cloudserverlatam.com/CSTV/CSTV/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="232" tvg-id="" tvg-name="EL CHAVO DEL 8" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/El_Chavo_%28simple_logo%29.svg/750px-El_Chavo_%28simple_logo%29.svg.png" group-title="CANALES 24/7",EL CHAVO DEL 8
+
+https://videostreaming.cloudserverlatam.com/ElChavotv/ElChavotv/playlist.m3u8
