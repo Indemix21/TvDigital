@@ -54,7 +54,7 @@ http://45.232.210.1:8061/play/espn3hd
 
 #EXTINF:-1 tvg-chno="26" tvg-id="" tvg-name="ESPN Premium" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ESPN_Premium_logo.svg/320px-ESPN_Premium_logo.svg.png" group-title="DEPORTES",ESPN Premium
 
-http://168.197.196.98:9981/stream/channelid/1115927856?ESPN Premium
+https://panel.dattalive.com/8176/8176/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="29" tvg-id="610DTSA.ar" tvg-name="610DTSA.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/DirecTV_Sports_Latin_America_%282018%29.png" group-title="DEPORTES",DIRECTV Sports
 
