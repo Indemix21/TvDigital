@@ -250,7 +250,7 @@ http://168.197.196.98:9981/stream/channelid/1182950999?profile=pass
 
 #EXTINF:-1 tvg-chno="83" tvg-id="" tvg-name="Sony Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Sony_Movies_Logo.svg/1200px-Sony_Movies_Logo.svg.png" group-title="CINE Y SERIES",Sony Movies
 
-http://190.108.87.149:8000/play/a02c/index.m3u8
+http://190.124.164.74:8000/play/a02c/index.m3u8
 
 #EXTINF:-1 tvg-chno="84" tvg-id="TCM.ar" tvg-name="TCM.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/TCM_Latam_logo.svg/1024px-TCM_Latam_logo.svg.png" group-title="CINE Y SERIES",TCM
 
@@ -258,7 +258,7 @@ http://45.232.210.1:8062/play/a09k/index.m3u8
 
 #EXTINF:-1 tvg-chno="85" tvg-id="SonyEntertainmentTelevision.pa" tvg-name="SonyEntertainmentTelevision.pa" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png" group-title="CINE Y SERIES",Sony Channel
 
-http://45.232.210.1:58000/play/a06d
+http://190.124.164.74:8000/play/a06e/index.m3u8
 
 #EXTINF:-1 tvg-chno="86" tvg-id="AandE.ar" tvg-name="AandE.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/1920px-A%26E_Network_logo.svg.png" group-title="CINE Y SERIES",A&E
 
@@ -716,7 +716,7 @@ http://45.225.95.170:8000/play/a0f0/index.m3u8
 
 #EXTINF:-1 tvg-chno="206" tvg-id="America.ar" tvg-name="America.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png" group-title="INTERNACIONALES",América TV
 
-http://168.197.196.98:9981/stream/channelid/964626769?profile=pass
+http://131.196.194.2:8000/play/a0c2/index.m3u8
 
 #EXTINF:-1 tvg-chno="207" tvg-id="NetTV.ar" tvg-name="NetTV.ar" tvg-logo="https://canalnet.tv/_templates/desktop/includes/img/_logo-alt.png" group-title="INTERNACIONALES",Net TV
 
@@ -762,22 +762,70 @@ http://xdgo.live:8080/play/McUodOnFEUmGTH-fUwgWx2hy92AaYbtKhNMVITUfEBKg_pzvJRBAz
 
 http://181.236.192.254:8000/play/a043/index.m3u8
 
-#EXTINF:-1 tvg-chno="225" tvg-id="" tvg-name="Universal Premiere Este" tvg-logo="https://universalplus.com/files/channels/398064723.png" group-title="UNIVERSAL PLUS",Universal Premiere
+#EXTINF:-1 tvg-chno="223" tvg-id="UniversalPremiere.mx" tvg-name="UniversalPremiere.mx" tvg-logo="https://universalplus.com/files/channels/398064723.png" group-title="UNIVERSAL PLUS",Universal Premiere
+
+http://190.124.164.74:8000/play/a05e/index.m3u8
+
+#EXTINF:-1 tvg-chno="224" tvg-id="" tvg-name="Universal Premiere Oeste" tvg-logo="https://universalplus.com/files/channels/398064723.png" group-title="UNIVERSAL PLUS",Universal Premiere
 
 http://160.20.164.171:8001/play/a01m/index.m3u8
 
-#EXTINF:-1 tvg-chno="227" tvg-id="" tvg-name="Universal Crime" tvg-logo="https://universalplus.com/files/channels/780277389.png" group-title="UNIVERSAL PLUS",Universal Crime
+#EXTINF:-1 tvg-chno="225" tvg-id="UniversalCrime.mx" tvg-name="UniversalCrime.mx" tvg-logo="https://universalplus.com/files/channels/780277389.png" group-title="UNIVERSAL PLUS",Universal Crime
 
-http://190.108.87.149:8000/play/a0in/index.m3u8
+http://190.124.164.74:8000/play/a05h/index.m3u8
 
-#EXTINF:-1 tvg-chno="228" tvg-id="" tvg-name="Universal Cinema" tvg-logo="https://universalplus.com/files/channels/731381553.png" group-title="UNIVERSAL PLUS",Universal Cinema
+#EXTINF:-1 tvg-chno="226" tvg-id="UniversalCinema.mx" tvg-name="UniversalCinema.mx" tvg-logo="https://universalplus.com/files/channels/731381553.png" group-title="UNIVERSAL PLUS",Universal Cinema
 
-http://190.108.87.149:8000/play/a0ii/index.m3u8
+http://190.124.164.74:8000/play/a02u/index.m3u8
 
-#EXTINF:-1 tvg-chno="229" tvg-id="" tvg-name="Universal Comedy" tvg-logo="https://universalplus.com/files/channels/172050409.png" group-title="UNIVERSAL PLUS",Universal Comedy
+#EXTINF:-1 tvg-chno="227" tvg-id="UniversalComedy.mx" tvg-name="UniversalComedy.mx" tvg-logo="https://universalplus.com/files/channels/172050409.png" group-title="UNIVERSAL PLUS",Universal Comedy
 
-http://190.108.87.149:8000/play/a0io/index.m3u8
+http://190.124.164.74:8000/play/a05i/index.m3u8
 
-#EXTINF:-1 tvg-chno="230" tvg-id="" tvg-name="Universal Reality" tvg-logo="https://universalplus.com/files/channels/120254749.png" group-title="UNIVERSAL PLUS",Universal Reality
+#EXTINF:-1 tvg-chno="228" tvg-id="UniversalReality.mx" tvg-name="UniversalReality.mx" tvg-logo="https://universalplus.com/files/channels/120254749.png" group-title="UNIVERSAL PLUS",Universal Reality
 
-http://190.108.87.149:8000/play/a0im/index.m3u8
+http://190.124.164.74:8000/play/a05g/index.m3u8
+
+#EXTINF:-1 tvg-chno="229" tvg-id="" tvg-name="Blacklight (2022)" tvg-logo="" group-title="PELÍCULAS Y EVENTOS",Blacklight (2022)
+http://xdgo.live:8080/play/keuSQYZASARwyi4OTegGm4TZRvXaeQxhDZalmUcVdwbzx0Z1jti79Bvf_pt_Iv-Z
+#EXTINF:-1 tvg-chno="230" tvg-id="" tvg-name="Emboscada (2022)" tvg-logo="" group-title="PELÍCULAS Y EVENTOS",Emboscada (2022)
+http://xdgo.live:8080/play/keuSQYZASARwyi4OTegGm4TZRvXaeQxhDZalmUcVdwYUpYCrnNmf6Q_ZdWOGEAUF
+#EXTINF:-1 tvg-chno="231" tvg-id="" tvg-name="Top Gun: Maverick (4K)" tvg-logo="" group-title="PELÍCULAS Y EVENTOS",Top Gun: Maverick (4K)
+http://xdgo.live:8080/play/keuSQYZASARwyi4OTegGm4TZRvXaeQxhDZalmUcVdwZwq45BSvrVr53faO-QMQg3
+#EXTINF:-1 tvg-chno="232" tvg-id="" tvg-name="Umma (2022)" tvg-logo="" group-title="PELÍCULAS Y EVENTOS",Umma (2022)
+http://xdgo.live:8080/play/keuSQYZASARwyi4OTegGm4TZRvXaeQxhDZalmUcVdwaWK3DssAtCWwED6fiZGSZz
+#EXTINF:-1 tvg-chno="233" tvg-id="" tvg-name="Cyrano (2022)" tvg-logo="" group-title="PELÍCULAS Y EVENTOS",Cyrano (2022)
+http://xdgo.live:8080/play/keuSQYZASARwyi4OTegGm4TZRvXaeQxhDZalmUcVdwbYAjv2bJtdHbaEVZzMC-Sl
+#EXTINF:-1 tvg-chno="234" tvg-id="" tvg-name="Ojos de fuego (2022)" tvg-logo="" group-title="PELÍCULAS Y EVENTOS",Ojos de fuego (2022)
+http://xdgo.live:8080/play/keuSQYZASARwyi4OTegGm4TZRvXaeQxhDZalmUcVdwbb6lzzUoNSTaJWFnveREpn
+#EXTINF:-1 tvg-chno="235" tvg-id="" tvg-name="Corre y dispara (2022)" tvg-logo="" group-title="PELÍCULAS Y EVENTOS",Corre y dispara (2022)
+http://xdgo.live:8080/play/keuSQYZASARwyi4OTegGm4TZRvXaeQxhDZalmUcVdwaLR7EBbT26w3zFaJgYwF4-
+#EXTINF:-1 tvg-chno="236" tvg-id="" tvg-name="Infinite Storm (2022)" tvg-logo="" group-title="PELÍCULAS Y EVENTOS",Infinite Storm (2022)
+http://xdgo.live:8080/play/keuSQYZASARwyi4OTegGm4TZRvXaeQxhDZalmUcVdwY56hwssIjYLiXyikR0XYa5
+#EXTINF:-1 tvg-chno="237" tvg-id="" tvg-name="Scream 5 (2022)" tvg-logo="" group-title="PELÍCULAS Y EVENTOS",Scream 5 (2022)
+http://xdgo.live:8080/play/keuSQYZASARwyi4OTegGm4TZRvXaeQxhDZalmUcVdwbfh2b7VQ_LxAdswY1Vc40N
+#EXTINF:-1 tvg-chno="238" tvg-id="" tvg-name="Érase Una Vez Un Cuento de Hadas (2022)" tvg-logo="" group-title="PELÍCULAS Y EVENTOS",Érase Una Vez Un Cuento de Hadas (2022)
+http://xdgo.live:8080/play/keuSQYZASARwyi4OTegGm4TZRvXaeQxhDZalmUcVdwZ5R_NTZ18xV7TNDdR8EkZx
+#EXTINF:-1 tvg-chno="239" tvg-id="" tvg-name="El sastre de la mafia (2022)" tvg-logo="" group-title="PELÍCULAS Y EVENTOS",El sastre de la mafia (2022)
+http://xdgo.live:8080/play/keuSQYZASARwyi4OTegGm4TZRvXaeQxhDZalmUcVdwZzCOuWAyHuSOKd4VTsKqRM
+#EXTINF:-1 tvg-chno="240" tvg-id="" tvg-name="Misión Panamá (2022)" tvg-logo="" group-title="PELÍCULAS Y EVENTOS",Misión Panamá (2022)
+http://xdgo.live:8080/play/keuSQYZASARwyi4OTegGm4TZRvXaeQxhDZalmUcVdwa1PF0cl_u1Tn6TrmQHOylf
+#EXTINF:-1 tvg-chno="241" tvg-id="" tvg-name="La fortaleza 2 (2022)" tvg-logo="" group-title="PELÍCULAS Y EVENTOS",La fortaleza 2 (2022)
+http://xdgo.live:8080/play/keuSQYZASARwyi4OTegGm4TZRvXaeQxhDZalmUcVdwYBgaRRnTwuEWnDkgQpuvRJ
+#EXTINF:-1 tvg-chno="242" tvg-id="" tvg-name="Redeeming Love (2022)" tvg-logo="" group-title="PELÍCULAS Y EVENTOS",Redeeming Love (2022)
+http://xdgo.live:8080/play/keuSQYZASARwyi4OTegGm4TZRvXaeQxhDZalmUcVdwYqiHQ9cW1h1EYcYuosFU4w
+#EXTINF:-1 tvg-chno="243" tvg-id="" tvg-name="La ciudad perdida (2022)" tvg-logo="" group-title="PELÍCULAS Y EVENTOS",La ciudad perdida (2022)
+http://xdgo.live:8080/play/keuSQYZASARwyi4OTegGm4TZRvXaeQxhDZalmUcVdwa7CyczTg5iRtg-XVGAb09k
+#EXTINF:-1 tvg-chno="244" tvg-id="" tvg-name="Alice (2022)" tvg-logo="" group-title="PELÍCULAS Y EVENTOS",Alice (2022)
+http://xdgo.live:8080/play/keuSQYZASARwyi4OTegGm4TZRvXaeQxhDZalmUcVdwainiLBnEve1G_da4qpuG0d
+#EXTINF:-1 tvg-chno="245" tvg-id="" tvg-name="Terror en el Estudio 666 - Foo Fighters (2022)" tvg-logo="" group-title="PELÍCULAS Y EVENTOS",Terror en el Estudio 666 - Foo Fighters (2022)
+http://xdgo.live:8080/play/keuSQYZASARwyi4OTegGm4TZRvXaeQxhDZalmUcVdwbRsX5Qv2gTnnRWZQvxNyJH
+#EXTINF:-1 tvg-chno="246" tvg-id="" tvg-name="Bulldozer (2022)" tvg-logo="" group-title="PELÍCULAS Y EVENTOS",Bulldozer (2022)
+http://xdgo.live:8080/play/keuSQYZASARwyi4OTegGm4TZRvXaeQxhDZalmUcVdwYTR2zLTNOWknvprF017wac
+#EXTINF:-1 tvg-chno="247" tvg-id="" tvg-name="The long Night (2022)" tvg-logo="" group-title="PELÍCULAS Y EVENTOS",The long Night (2022)
+http://xdgo.live:8080/play/keuSQYZASARwyi4OTegGm4TZRvXaeQxhDZalmUcVdwaRaJTITvO_ddScCcWvOcOW
+#EXTINF:-1 tvg-chno="248" tvg-id="" tvg-name="Ambulance: Plan de huida (2022)" tvg-logo="" group-title="PELÍCULAS Y EVENTOS",Ambulance: Plan de huida (2022)
+http://xdgo.live:8080/play/keuSQYZASARwyi4OTegGm4TZRvXaeQxhDZalmUcVdwZzA7M1dS1n_tFQU6XAwzH_
+#EXTINF:-1 tvg-chno="249" tvg-id="" tvg-name="X (2022)" tvg-logo="" group-title="PELÍCULAS Y EVENTOS",X (2022)
+http://xdgo.live:8080/play/keuSQYZASARwyi4OTegGm4TZRvXaeQxhDZalmUcVdwaY-NCtsITdlxYrIX0X7B7p
+#EXTINF:-1 tvg-chno="250" tvg-id="" tvg-name="El juego del bunker (2022)" tvg-logo="" group-title="PELÍCULAS Y EVENTOS",El juego del bunker (2022)
