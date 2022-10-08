@@ -226,23 +226,23 @@ http://live-edge01.telecentro.net.ar/live/smil:trm.smil/chunklist_w258432612_b18
 
 #EXTINF:-1 tvg-chno="77" tvg-id=" Star Channel.cl" tvg-name=" Star Channel.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/1920px-Star_Channel_2020.svg.png" group-title="CINE Y SERIES",Star Channel
 
-http://168.197.196.98:9981/stream/channelid/167765925?profile=pass
+http://45.232.210.1:8061/play/a0ao
 
 #EXTINF:-1 tvg-chno="78" tvg-id="TNT.ar" tvg-name="TNT.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/1024px-TNT_Logo_2016.svg.png" group-title="CINE Y SERIES",TNT
 
-http://45.232.210.1:58000/play/a06w
+http://45.232.210.1:8061/play/a06w
 
 #EXTINF:-1 tvg-chno="79" tvg-id="Cinecanal.ar" tvg-name="Cinecanal.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/CinecanalLA.png" group-title="CINE Y SERIES",Cinecanal
 
-http://45.232.210.1:58000/play/a05c
+http://45.232.210.1:8061/play/a05c
 
 #EXTINF:-1 tvg-chno="80" tvg-id="Cinemax.cl" tvg-name="Cinemax.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cinemax_%28Yellow%29.svg/1920px-Cinemax_%28Yellow%29.svg.png" group-title="CINE Y SERIES",Cinemax
 
-http://45.232.210.1:58000/play/cinemaxhd
+http://45.232.210.1:8061/play/cinemaxhd
 
 #EXTINF:-1 tvg-chno="81" tvg-id="FX.ar" tvg-name="FX.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/1920px-FX_International_logo.svg.png" group-title="CINE Y SERIES",FX
 
-http://45.232.210.1:58000/play/a0aw
+http://45.232.210.1:8061/play/a0aw
 
 #EXTINF:-1 tvg-chno="82" tvg-id="UniversalChannel.ar" tvg-name="UniversalChannel.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Universal_TV_logo.svg/1920px-Universal_TV_logo.svg.png" group-title="CINE Y SERIES",Universal TV
 
@@ -250,7 +250,7 @@ http://168.197.196.98:9981/stream/channelid/1182950999?profile=pass
 
 #EXTINF:-1 tvg-chno="83" tvg-id="" tvg-name="Sony Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Sony_Movies_Logo.svg/1200px-Sony_Movies_Logo.svg.png" group-title="CINE Y SERIES",Sony Movies
 
-http://190.124.164.74:8000/play/a02c/index.m3u8
+http://45.228.232.204:16000/play/a04h/index.m3u8
 
 #EXTINF:-1 tvg-chno="84" tvg-id="TCM.ar" tvg-name="TCM.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/TCM_Latam_logo.svg/1024px-TCM_Latam_logo.svg.png" group-title="CINE Y SERIES",TCM
 
@@ -258,27 +258,27 @@ http://45.232.210.1:8062/play/a09k/index.m3u8
 
 #EXTINF:-1 tvg-chno="85" tvg-id="SonyEntertainmentTelevision.pa" tvg-name="SonyEntertainmentTelevision.pa" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png" group-title="CINE Y SERIES",Sony Channel
 
-http://190.124.164.74:8000/play/a06e/index.m3u8
+http://45.232.210.1:8061/play/a06d
 
 #EXTINF:-1 tvg-chno="86" tvg-id="AandE.ar" tvg-name="AandE.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/1920px-A%26E_Network_logo.svg.png" group-title="CINE Y SERIES",A&E
 
-http://45.232.210.1:58000/play/aehd
+http://45.232.210.1:8061/play/aehd
 
 #EXTINF:-1 tvg-chno="87" tvg-id="StudioUniversal.ar" tvg-name="StudioUniversal.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/74/StudioUniversal2016.png" group-title="CINE Y SERIES",Studio Universal
 
-http://45.232.210.1:58000/play/studiouniversalhd
+http://45.232.210.1:8061/play/studiouniversalhd
 
 #EXTINF:-1 tvg-chno="88" tvg-id="AXN.ar" tvg-name="AXN.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/1920px-AXN_logo_%282015%29.svg.png" group-title="CINE Y SERIES",AXN
 
-http://45.232.210.1:58000/play/a06f
+http://45.232.210.1:8061/play/a06f
 
 #EXTINF:-1 tvg-chno="89" tvg-id="ComedyCentral.ar" tvg-name="ComedyCentral.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/1920px-Comedy_Central_2018.svg.png" group-title="CINE Y SERIES",Comedy Central
 
-http://45.232.210.1:58000/play/comedycentralhd
+http://45.232.210.1:8061/play/comedycentralhd
 
 #EXTINF:-1 tvg-chno="90" tvg-id="AMC.ar" tvg-name="AMC.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/1920px-AMC_logo_2019.svg.png" group-title="CINE Y SERIES",AMC
 
-http://45.232.210.1:58000/play/a056
+http://45.232.210.1:8061/play/a056
 
 #EXTINF:-1 tvg-chno="91" tvg-id="" tvg-name="Cine Familiar" tvg-logo="" group-title="CINE Y SERIES",Cine Familiar
 
@@ -286,41 +286,41 @@ http://181.129.186.36:8089/play/a00r/index.m3u8
 
 #EXTINF:-1 tvg-chno="92" tvg-id="SyfyLatinAmerica.pa" tvg-name="SyfyLatinAmerica.pa" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/SYFY.svg/1920px-SYFY.svg.png" group-title="CINE Y SERIES",SyFy
 
-http://168.197.196.98:9981/stream/channelid/687918299?profile=pass
+http://45.225.95.170:8000/play/a0hr/index.m3u8
 
 #EXTINF:-1 tvg-chno="93" tvg-id="Warner.ar" tvg-name="Warner.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Warner2018LA.png" group-title="CINE Y SERIES",Warner Channel
 
-http://45.232.210.1:58000/play/a06e
+http://45.232.210.1:8061/play/a06e
 
 #EXTINF:-1 tvg-chno="94" tvg-id="ParamountChannel.cl" tvg-name="ParamountChannel.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Paramount_Network.svg/1024px-Paramount_Network.svg.png" group-title="CINE Y SERIES",Paramount Network
 
-http://45.232.210.1:58000/play/a05j
+http://45.232.210.1:8061/play/a05j
 
 #EXTINF:-1 tvg-chno="95" tvg-id="" tvg-name="Eurochannel" tvg-logo="http://www.eurochannel.com/images/Logo_Eurochannel-Blue.png" group-title="CINE Y SERIES",Eurochannel
 
-http://190.61.102.67:3000/play/a00s
+http://45.5.119.202:8000/play/a00c/index.m3u8
 
 #EXTINF:-1 tvg-chno="96" tvg-id="TNTSeries.pa" tvg-name="TNTSeries.pa" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/TNT_Series_Logo_2016.png" group-title="CINE Y SERIES",TNT Series
 
-http://45.232.210.1:58000/play/a0bf
+http://45.232.210.1:8061/play/a0bf
 
 https://linear-406.frequency.stream/406/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="98" tvg-id="GoldenLatinAmerica.pa" tvg-name="GoldenLatinAmerica.pa" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Canal_Golden_logo.svg/1920px-Canal_Golden_logo.svg.png" group-title="CINE Y SERIES",Golden (Latinoamérica)
 
-https://linear-408.frequency.stream/408/hls/master/playlist.m3u8
+https://linear-http://45.228.232.204:16000/play/a05l/index.m3u8
 
 #EXTINF:-1 tvg-chno="99" tvg-id="GoldenPlus.mx" tvg-name="GoldenPlus.mx" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/51/Golden_Plus_2020.png/revision/latest/scale-to-width-down/310?cb=20210512164553&path-prefix=es" group-title="CINE Y SERIES",Golden Plus
 
-http://45.232.210.1:47000/play/goldenhd
+http://45.232.210.1:8061/play/goldenhd
 
 #EXTINF:-1 tvg-chno="100" tvg-id="GoldenEdge.mx" tvg-name="GoldenEdge.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d5/Golden_Edge_Logo_2020.png" group-title="CINE Y SERIES",Golden Edge
 
-http://200.41.79.165:8000/play/a0ia/index.m3u8
+http://186.3.216.78:9955/play/a134/index.m3u8
 
 #EXTINF:-1 tvg-chno="101" tvg-id="GoldenPremier.co" tvg-name="GoldenPremier.co" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3a/Golden_Premier_logo_2020.png/revision/latest/scale-to-width-down/350?cb=20201202010915&path-prefix=es" group-title="CINE Y SERIES",Golden Premier
 
-https://linear-411.frequency.stream/411/hls/master/playlist.m3u8
+https://linear-http://186.3.216.78:9955/play/a11z/index.m3u8
 
 #EXTINF:-1 tvg-chno="102" tvg-id="" tvg-name="Cine Premium" tvg-logo="" group-title="CINE Y SERIES",Cine Premium
 
@@ -332,11 +332,11 @@ http://45.225.95.170:8005/play/a03s
 
 #EXTINF:-1 tvg-chno="104" tvg-id="TBS.ar" tvg-name="TBS.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/TBS_logo_2016.svg/1920px-TBS_logo_2016.svg.png" group-title="CINE Y SERIES",TBS
 
-http://168.197.196.98:9981/stream/channelid/333476516?profile=pass
+http://186.3.255.100:8855/play/a0v9/index.m3u8
 
 #EXTINF:-1 tvg-chno="105" tvg-id="FilmAndArts.mx" tvg-name="FilmAndArts.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cd/Film%26Arts2016.png" group-title="CINE Y SERIES",Film & Arts
 
-http://168.197.196.98:9981/stream/channelid/1958505184?profile=pass
+http://200.59.213.33:8000/play/a01k/index.m3u8
 
 #EXTINF:-1 tvg-chno="106" tvg-id="ISat.ar" tvg-name="ISat.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/I.Sat_logo.svg/1920px-I.Sat_logo.svg.png" group-title="CINE Y SERIES",I.Sat
 
@@ -348,7 +348,7 @@ http://160.20.164.171:8001/play/a021/index.m3u8
 
 #EXTINF:-1 tvg-chno="108" tvg-id="EuropaEuropa.mx" tvg-name="EuropaEuropa.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/80/EUROPAEUROPALOGO2016.png" group-title="CINE Y SERIES",Europa Europa
 
-http://168.197.196.98:9981/stream/channelid/2090545841?profile=pass
+http://45.228.232.204:16000/play/a04g/index.m3u8
 
 #EXTINF:-1 tvg-chno="109" tvg-id="" tvg-name="De Pelicula" tvg-logo="" group-title="CINE Y SERIES",De Pelicula
 
@@ -360,7 +360,7 @@ https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=1106
 
 #EXTINF:-1 tvg-chno="111" tvg-id="SpaceLatinAmerica" tvg-name="SpaceLatinAmerica" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/SpaceLogo.svg/1920px-SpaceLogo.svg.png" group-title="CINE Y SERIES",Space
 
-http://45.232.210.1:58000/play/a06g
+http://45.232.210.1:8061/play/a06g
 
 #EXTINF:-1 tvg-chno="112" tvg-id="" tvg-name="Cine Hispano" tvg-logo="" group-title="CINE Y SERIES",Cine Hispano
 
@@ -368,11 +368,11 @@ http://181.129.186.36:8089/play/a00v/index.m3u8
 
 #EXTINF:-1 tvg-chno="113" tvg-id="CanalDHE.co" tvg-name="CanalDHE.co" tvg-logo="https://www.canaldhe.com/wp-content/uploads/2019/09/Logotipo-DHE-124x66-px.png" group-title="CINE Y SERIES",DHE
 
-http://45.232.210.1:47000/play/a0dz
+http://45.232.210.1:8061/play/a0dz
 
 #EXTINF:-1 tvg-chno="114" tvg-id="Multicinema.mx" tvg-name="Multicinema.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9e/MC.png" group-title="CINE Y SERIES",Multicinema
 
-http://190.83.119.67:8000/play/a0o5/index.m3u8
+http://160.20.164.171:8001/play/a039/index.m3u8
 
 #EXTINF:-1 tvg-chno="115" tvg-id="CineLatino.mx" tvg-name="CineLatino.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/Cinelatino_logo.png" group-title="CINE Y SERIES",Cine Latino
 
@@ -716,7 +716,7 @@ http://45.225.95.170:8000/play/a0f0/index.m3u8
 
 #EXTINF:-1 tvg-chno="206" tvg-id="America.ar" tvg-name="America.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png" group-title="INTERNACIONALES",América TV
 
-http://131.196.194.2:8000/play/a0c2/index.m3u8
+http://168.197.196.98:9981/stream/channelid/964626769?profile=pass
 
 #EXTINF:-1 tvg-chno="207" tvg-id="NetTV.ar" tvg-name="NetTV.ar" tvg-logo="https://canalnet.tv/_templates/desktop/includes/img/_logo-alt.png" group-title="INTERNACIONALES",Net TV
 
@@ -762,70 +762,22 @@ http://xdgo.live:8080/play/McUodOnFEUmGTH-fUwgWx2hy92AaYbtKhNMVITUfEBKg_pzvJRBAz
 
 http://181.236.192.254:8000/play/a043/index.m3u8
 
-#EXTINF:-1 tvg-chno="223" tvg-id="UniversalPremiere.mx" tvg-name="UniversalPremiere.mx" tvg-logo="https://universalplus.com/files/channels/398064723.png" group-title="UNIVERSAL PLUS",Universal Premiere
+#EXTINF:-1 tvg-chno="225" tvg-id="" tvg-name="Universal Premiere Este" tvg-logo="https://universalplus.com/files/channels/398064723.png" group-title="UNIVERSAL PLUS",Universal Premiere
 
-http://190.124.164.74:8000/play/a05e/index.m3u8
+http://181.189.243.254:8000/play/a0ui/index.m3u8
 
-#EXTINF:-1 tvg-chno="224" tvg-id="" tvg-name="Universal Premiere Oeste" tvg-logo="https://universalplus.com/files/channels/398064723.png" group-title="UNIVERSAL PLUS",Universal Premiere
+#EXTINF:-1 tvg-chno="227" tvg-id="" tvg-name="Universal Crime" tvg-logo="https://universalplus.com/files/channels/780277389.png" group-title="UNIVERSAL PLUS",Universal Crime
 
-http://160.20.164.171:8001/play/a01m/index.m3u8
+http://181.189.243.254:8000/play/a0t0/index.m3u8
 
-#EXTINF:-1 tvg-chno="225" tvg-id="UniversalCrime.mx" tvg-name="UniversalCrime.mx" tvg-logo="https://universalplus.com/files/channels/780277389.png" group-title="UNIVERSAL PLUS",Universal Crime
+#EXTINF:-1 tvg-chno="228" tvg-id="" tvg-name="Universal Cinema" tvg-logo="https://universalplus.com/files/channels/731381553.png" group-title="UNIVERSAL PLUS",Universal Cinema
 
-http://190.124.164.74:8000/play/a05h/index.m3u8
+http://181.189.243.254:8000/play/a0v2/index.m3u8
 
-#EXTINF:-1 tvg-chno="226" tvg-id="UniversalCinema.mx" tvg-name="UniversalCinema.mx" tvg-logo="https://universalplus.com/files/channels/731381553.png" group-title="UNIVERSAL PLUS",Universal Cinema
+#EXTINF:-1 tvg-chno="229" tvg-id="" tvg-name="Universal Comedy" tvg-logo="https://universalplus.com/files/channels/172050409.png" group-title="UNIVERSAL PLUS",Universal Comedy
 
-http://190.124.164.74:8000/play/a02u/index.m3u8
+http://181.189.243.254:8000/play/a0t1/index.m3u8
 
-#EXTINF:-1 tvg-chno="227" tvg-id="UniversalComedy.mx" tvg-name="UniversalComedy.mx" tvg-logo="https://universalplus.com/files/channels/172050409.png" group-title="UNIVERSAL PLUS",Universal Comedy
+#EXTINF:-1 tvg-chno="230" tvg-id="" tvg-name="Universal Reality" tvg-logo="https://universalplus.com/files/channels/120254749.png" group-title="UNIVERSAL PLUS",Universal Reality
 
-http://190.124.164.74:8000/play/a05i/index.m3u8
-
-#EXTINF:-1 tvg-chno="228" tvg-id="UniversalReality.mx" tvg-name="UniversalReality.mx" tvg-logo="https://universalplus.com/files/channels/120254749.png" group-title="UNIVERSAL PLUS",Universal Reality
-
-http://190.124.164.74:8000/play/a05g/index.m3u8
-
-#EXTINF:-1 tvg-chno="229" tvg-id="" tvg-name="Blacklight (2022)" tvg-logo="" group-title="PELÍCULAS Y EVENTOS",Blacklight (2022)
-http://xdgo.live:8080/play/keuSQYZASARwyi4OTegGm4TZRvXaeQxhDZalmUcVdwbzx0Z1jti79Bvf_pt_Iv-Z
-#EXTINF:-1 tvg-chno="230" tvg-id="" tvg-name="Emboscada (2022)" tvg-logo="" group-title="PELÍCULAS Y EVENTOS",Emboscada (2022)
-http://xdgo.live:8080/play/keuSQYZASARwyi4OTegGm4TZRvXaeQxhDZalmUcVdwYUpYCrnNmf6Q_ZdWOGEAUF
-#EXTINF:-1 tvg-chno="231" tvg-id="" tvg-name="Top Gun: Maverick (4K)" tvg-logo="" group-title="PELÍCULAS Y EVENTOS",Top Gun: Maverick (4K)
-http://xdgo.live:8080/play/keuSQYZASARwyi4OTegGm4TZRvXaeQxhDZalmUcVdwZwq45BSvrVr53faO-QMQg3
-#EXTINF:-1 tvg-chno="232" tvg-id="" tvg-name="Umma (2022)" tvg-logo="" group-title="PELÍCULAS Y EVENTOS",Umma (2022)
-http://xdgo.live:8080/play/keuSQYZASARwyi4OTegGm4TZRvXaeQxhDZalmUcVdwaWK3DssAtCWwED6fiZGSZz
-#EXTINF:-1 tvg-chno="233" tvg-id="" tvg-name="Cyrano (2022)" tvg-logo="" group-title="PELÍCULAS Y EVENTOS",Cyrano (2022)
-http://xdgo.live:8080/play/keuSQYZASARwyi4OTegGm4TZRvXaeQxhDZalmUcVdwbYAjv2bJtdHbaEVZzMC-Sl
-#EXTINF:-1 tvg-chno="234" tvg-id="" tvg-name="Ojos de fuego (2022)" tvg-logo="" group-title="PELÍCULAS Y EVENTOS",Ojos de fuego (2022)
-http://xdgo.live:8080/play/keuSQYZASARwyi4OTegGm4TZRvXaeQxhDZalmUcVdwbb6lzzUoNSTaJWFnveREpn
-#EXTINF:-1 tvg-chno="235" tvg-id="" tvg-name="Corre y dispara (2022)" tvg-logo="" group-title="PELÍCULAS Y EVENTOS",Corre y dispara (2022)
-http://xdgo.live:8080/play/keuSQYZASARwyi4OTegGm4TZRvXaeQxhDZalmUcVdwaLR7EBbT26w3zFaJgYwF4-
-#EXTINF:-1 tvg-chno="236" tvg-id="" tvg-name="Infinite Storm (2022)" tvg-logo="" group-title="PELÍCULAS Y EVENTOS",Infinite Storm (2022)
-http://xdgo.live:8080/play/keuSQYZASARwyi4OTegGm4TZRvXaeQxhDZalmUcVdwY56hwssIjYLiXyikR0XYa5
-#EXTINF:-1 tvg-chno="237" tvg-id="" tvg-name="Scream 5 (2022)" tvg-logo="" group-title="PELÍCULAS Y EVENTOS",Scream 5 (2022)
-http://xdgo.live:8080/play/keuSQYZASARwyi4OTegGm4TZRvXaeQxhDZalmUcVdwbfh2b7VQ_LxAdswY1Vc40N
-#EXTINF:-1 tvg-chno="238" tvg-id="" tvg-name="Érase Una Vez Un Cuento de Hadas (2022)" tvg-logo="" group-title="PELÍCULAS Y EVENTOS",Érase Una Vez Un Cuento de Hadas (2022)
-http://xdgo.live:8080/play/keuSQYZASARwyi4OTegGm4TZRvXaeQxhDZalmUcVdwZ5R_NTZ18xV7TNDdR8EkZx
-#EXTINF:-1 tvg-chno="239" tvg-id="" tvg-name="El sastre de la mafia (2022)" tvg-logo="" group-title="PELÍCULAS Y EVENTOS",El sastre de la mafia (2022)
-http://xdgo.live:8080/play/keuSQYZASARwyi4OTegGm4TZRvXaeQxhDZalmUcVdwZzCOuWAyHuSOKd4VTsKqRM
-#EXTINF:-1 tvg-chno="240" tvg-id="" tvg-name="Misión Panamá (2022)" tvg-logo="" group-title="PELÍCULAS Y EVENTOS",Misión Panamá (2022)
-http://xdgo.live:8080/play/keuSQYZASARwyi4OTegGm4TZRvXaeQxhDZalmUcVdwa1PF0cl_u1Tn6TrmQHOylf
-#EXTINF:-1 tvg-chno="241" tvg-id="" tvg-name="La fortaleza 2 (2022)" tvg-logo="" group-title="PELÍCULAS Y EVENTOS",La fortaleza 2 (2022)
-http://xdgo.live:8080/play/keuSQYZASARwyi4OTegGm4TZRvXaeQxhDZalmUcVdwYBgaRRnTwuEWnDkgQpuvRJ
-#EXTINF:-1 tvg-chno="242" tvg-id="" tvg-name="Redeeming Love (2022)" tvg-logo="" group-title="PELÍCULAS Y EVENTOS",Redeeming Love (2022)
-http://xdgo.live:8080/play/keuSQYZASARwyi4OTegGm4TZRvXaeQxhDZalmUcVdwYqiHQ9cW1h1EYcYuosFU4w
-#EXTINF:-1 tvg-chno="243" tvg-id="" tvg-name="La ciudad perdida (2022)" tvg-logo="" group-title="PELÍCULAS Y EVENTOS",La ciudad perdida (2022)
-http://xdgo.live:8080/play/keuSQYZASARwyi4OTegGm4TZRvXaeQxhDZalmUcVdwa7CyczTg5iRtg-XVGAb09k
-#EXTINF:-1 tvg-chno="244" tvg-id="" tvg-name="Alice (2022)" tvg-logo="" group-title="PELÍCULAS Y EVENTOS",Alice (2022)
-http://xdgo.live:8080/play/keuSQYZASARwyi4OTegGm4TZRvXaeQxhDZalmUcVdwainiLBnEve1G_da4qpuG0d
-#EXTINF:-1 tvg-chno="245" tvg-id="" tvg-name="Terror en el Estudio 666 - Foo Fighters (2022)" tvg-logo="" group-title="PELÍCULAS Y EVENTOS",Terror en el Estudio 666 - Foo Fighters (2022)
-http://xdgo.live:8080/play/keuSQYZASARwyi4OTegGm4TZRvXaeQxhDZalmUcVdwbRsX5Qv2gTnnRWZQvxNyJH
-#EXTINF:-1 tvg-chno="246" tvg-id="" tvg-name="Bulldozer (2022)" tvg-logo="" group-title="PELÍCULAS Y EVENTOS",Bulldozer (2022)
-http://xdgo.live:8080/play/keuSQYZASARwyi4OTegGm4TZRvXaeQxhDZalmUcVdwYTR2zLTNOWknvprF017wac
-#EXTINF:-1 tvg-chno="247" tvg-id="" tvg-name="The long Night (2022)" tvg-logo="" group-title="PELÍCULAS Y EVENTOS",The long Night (2022)
-http://xdgo.live:8080/play/keuSQYZASARwyi4OTegGm4TZRvXaeQxhDZalmUcVdwaRaJTITvO_ddScCcWvOcOW
-#EXTINF:-1 tvg-chno="248" tvg-id="" tvg-name="Ambulance: Plan de huida (2022)" tvg-logo="" group-title="PELÍCULAS Y EVENTOS",Ambulance: Plan de huida (2022)
-http://xdgo.live:8080/play/keuSQYZASARwyi4OTegGm4TZRvXaeQxhDZalmUcVdwZzA7M1dS1n_tFQU6XAwzH_
-#EXTINF:-1 tvg-chno="249" tvg-id="" tvg-name="X (2022)" tvg-logo="" group-title="PELÍCULAS Y EVENTOS",X (2022)
-http://xdgo.live:8080/play/keuSQYZASARwyi4OTegGm4TZRvXaeQxhDZalmUcVdwaY-NCtsITdlxYrIX0X7B7p
-#EXTINF:-1 tvg-chno="250" tvg-id="" tvg-name="El juego del bunker (2022)" tvg-logo="" group-title="PELÍCULAS Y EVENTOS",El juego del bunker (2022)
+http://181.189.243.254:8000/play/a0sz/index.m3u8
