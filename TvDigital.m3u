@@ -230,19 +230,19 @@ http://45.232.210.1:8061/play/a0ao
 
 #EXTINF:-1 tvg-chno="78" tvg-id="TNT.ar" tvg-name="TNT.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/1024px-TNT_Logo_2016.svg.png" group-title="CINE Y SERIES",TNT
 
-http://45.232.210.1:8061/play/a06w
+http://45.232.210.1:8062/play/a09n/index.m3u8
 
 #EXTINF:-1 tvg-chno="79" tvg-id="Cinecanal.ar" tvg-name="Cinecanal.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/CinecanalLA.png" group-title="CINE Y SERIES",Cinecanal
 
-http://45.232.210.1:8061/play/a05c
+http://45.232.210.1:8062/play/a09c/index.m3u8
 
 #EXTINF:-1 tvg-chno="80" tvg-id="Cinemax.cl" tvg-name="Cinemax.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cinemax_%28Yellow%29.svg/1920px-Cinemax_%28Yellow%29.svg.png" group-title="CINE Y SERIES",Cinemax
 
-http://45.232.210.1:8061/play/cinemaxhd
+http://45.232.210.1:8062/play/a0b4/index.m3u8
 
 #EXTINF:-1 tvg-chno="81" tvg-id="FX.ar" tvg-name="FX.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/1920px-FX_International_logo.svg.png" group-title="CINE Y SERIES",FX
 
-http://45.232.210.1:8061/play/a0aw
+http://45.232.210.1:8062/play/a0b8/index.m3u8
 
 #EXTINF:-1 tvg-chno="82" tvg-id="UniversalChannel.ar" tvg-name="UniversalChannel.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Universal_TV_logo.svg/1920px-Universal_TV_logo.svg.png" group-title="CINE Y SERIES",Universal TV
 
