@@ -30,7 +30,7 @@ http://45.232.210.1:47000/play/a07d
 
 #EXTINF:-1 tvg-chno="9" tvg-id="TNTSports1.cl" tvg-name="TNTSports1.cl" tvg-logo="https://i.imgur.com/uvZnsAy.png" group-title="DEPORTES",TNT Sports HD
 
-http://xdgo.live:8080/play/McUodOnFEUmGTH-fUwgWx2hy92AaYbtKhNMVITUfEBLYMWHYH_wFxp0VXhGxudNW/ts
+https://delivery.cdn.rcs.net.ar/mnp/tntsports_hls/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="10" tvg-id="TNTSports2.cl" tvg-name="TNTSports2.cl" tvg-logo="https://i.imgur.com/Su235Ms.png" group-title="DEPORTES",TNT Sports 2
 
