@@ -732,31 +732,31 @@ https://2a1773fcc0c94a639b422d1cf7ba14b7.mediatailor.us-east-1.amazonaws.com/v1/
 
 #EXTINF:-1 tvg-chno="211" tvg-id="HBO.pa" tvg-name="HBO.pa" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1920px-HBO_logo.svg.png" group-title="HBO PREMIUM",HBO
 
-http://45.232.210.1:58000/play/a08o
+http://209.45.95.18:8000/play/a05b
 
 #EXTINF:-1 tvg-chno="213" tvg-id="HBO2.pa" tvg-name="HBO2.pa" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/HBO2_logo.svg/1920px-HBO2_logo.svg.png" group-title="HBO PREMIUM",HBO 2
 
-http://181.78.22.214:8000/play/a00n
+http://209.45.95.18:8000/play/a059
 
 #EXTINF:-1 tvg-chno="215" tvg-id="HBOFamily.pa" tvg-name="HBOFamily.pa" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/HBO_Family.svg/1280px-HBO_Family.svg.png" group-title="HBO PREMIUM",HBO Family
 
-http://181.78.22.214:8000/play/a00q
+http://45.232.210.1:8061/play/a0fa
 
 #EXTINF:-1 tvg-chno="216" tvg-id="HBOPop.pa" tvg-name="HBOPop.pa" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/HBO_Pop.svg/1280px-HBO_Pop.svg.png" group-title="HBO PREMIUM",HBO Pop
 
-http://xdgo.live:8080/play/McUodOnFEUmGTH-fUwgWx2hy92AaYbtKhNMVITUfEBLaGBkjXGJHHAznOi3QUcmY/ts
+http://live.iptv.wtf:80/tjpyuhim/Mfy33Xhs96/6110
 
 #EXTINF:-1 tvg-chno="218" tvg-id="HBOPlus.pa" tvg-name="HBOPlus.pa" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Logohboplus2019.svg/1920px-Logohboplus2019.svg.png" group-title="HBO PREMIUM",HBO Plus
 
-http://131.196.194.2:8000/play/a0cy/index.m3u8
+http://45.181.122.100:8000/play/a046/index.m3u8
 
 #EXTINF:-1 tvg-chno="220" tvg-id="HBOXtreme.pa" tvg-name="HBOXtreme.pa" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/1280px-HBO_Xtreme.svg.png" group-title="HBO PREMIUM",HBO Xtreme
 
-http://45.232.210.1:58000/play/a0fb
+http://45.232.210.1:8061/play/a0fb
 
 #EXTINF:-1 tvg-chno="222" tvg-id="HBOSignature.pa" tvg-name="HBOSignature.pa" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/HBO_Signature.svg/1920px-HBO_Signature.svg.png" group-title="HBO PREMIUM",HBO Signature
 
-http://xdgo.live:8080/play/McUodOnFEUmGTH-fUwgWx2hy92AaYbtKhNMVITUfEBKg_pzvJRBAzwL9hthnRazt/ts
+http://live.iptv.wtf:80/tjpyuhim/Mfy33Xhs96/63
 
 #EXTINF:-1 tvg-chno="223" tvg-id="HBOMundi.pa" tvg-name="HBOMundi.pa" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/HBO_Mundi.svg/1280px-HBO_Mundi.svg.png" group-title="HBO PREMIUM",HBO Mundi
 
