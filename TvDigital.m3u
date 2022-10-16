@@ -744,7 +744,7 @@ http://45.232.210.1:8061/play/a0fa
 
 #EXTINF:-1 tvg-chno="216" tvg-id="HBOPop.pa" tvg-name="HBOPop.pa" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/HBO_Pop.svg/1280px-HBO_Pop.svg.png" group-title="HBO PREMIUM",HBO Pop
 
-http://live.iptv.wtf:80/tjpyuhim/Mfy33Xhs96/6110
+http://line.powerdino.com:80/4375a1dd43/649f75a876/264986
 
 #EXTINF:-1 tvg-chno="218" tvg-id="HBOPlus.pa" tvg-name="HBOPlus.pa" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Logohboplus2019.svg/1920px-Logohboplus2019.svg.png" group-title="HBO PREMIUM",HBO Plus
 
@@ -753,10 +753,6 @@ http://45.181.122.100:8000/play/a046/index.m3u8
 #EXTINF:-1 tvg-chno="220" tvg-id="HBOXtreme.pa" tvg-name="HBOXtreme.pa" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/1280px-HBO_Xtreme.svg.png" group-title="HBO PREMIUM",HBO Xtreme
 
 http://45.232.210.1:8061/play/a0fb
-
-#EXTINF:-1 tvg-chno="222" tvg-id="HBOSignature.pa" tvg-name="HBOSignature.pa" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/HBO_Signature.svg/1920px-HBO_Signature.svg.png" group-title="HBO PREMIUM",HBO Signature
-
-http://live.iptv.wtf:80/tjpyuhim/Mfy33Xhs96/63
 
 #EXTINF:-1 tvg-chno="223" tvg-id="HBOMundi.pa" tvg-name="HBOMundi.pa" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/HBO_Mundi.svg/1280px-HBO_Mundi.svg.png" group-title="HBO PREMIUM",HBO Mundi
 
