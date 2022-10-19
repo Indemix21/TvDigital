@@ -230,19 +230,19 @@ http://45.232.210.1:8061/play/a0ao
 
 #EXTINF:-1 tvg-chno="78" tvg-id="TNT.ar" tvg-name="TNT.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/1024px-TNT_Logo_2016.svg.png" group-title="CINE Y SERIES",TNT
 
-http://45.232.210.1:8062/play/a09n/index.m3u8
+http://45.232.210.1:8061/play/a06w
 
 #EXTINF:-1 tvg-chno="79" tvg-id="Cinecanal.ar" tvg-name="Cinecanal.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/CinecanalLA.png" group-title="CINE Y SERIES",Cinecanal
 
-http://45.232.210.1:8062/play/a09c/index.m3u8
+http://45.232.210.1:8061/play/a05c
 
 #EXTINF:-1 tvg-chno="80" tvg-id="Cinemax.cl" tvg-name="Cinemax.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cinemax_%28Yellow%29.svg/1920px-Cinemax_%28Yellow%29.svg.png" group-title="CINE Y SERIES",Cinemax
 
-http://45.232.210.1:8062/play/a0b4/index.m3u8
+http://45.232.210.1:8061/play/cinemaxhd
 
 #EXTINF:-1 tvg-chno="81" tvg-id="FX.ar" tvg-name="FX.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/1920px-FX_International_logo.svg.png" group-title="CINE Y SERIES",FX
 
-http://45.232.210.1:8062/play/a0b8/index.m3u8
+http://45.232.210.1:8061/play/a0aw
 
 #EXTINF:-1 tvg-chno="82" tvg-id="UniversalChannel.ar" tvg-name="UniversalChannel.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Universal_TV_logo.svg/1920px-Universal_TV_logo.svg.png" group-title="CINE Y SERIES",Universal TV
 
@@ -250,7 +250,7 @@ http://168.197.196.98:9981/stream/channelid/1182950999?profile=pass
 
 #EXTINF:-1 tvg-chno="83" tvg-id="" tvg-name="Sony Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Sony_Movies_Logo.svg/1200px-Sony_Movies_Logo.svg.png" group-title="CINE Y SERIES",Sony Movies
 
-http://45.228.232.204:16000/play/a04h/index.m3u8
+http://45.162.135.1:1080/play/a07l
 
 #EXTINF:-1 tvg-chno="84" tvg-id="TCM.ar" tvg-name="TCM.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/TCM_Latam_logo.svg/1024px-TCM_Latam_logo.svg.png" group-title="CINE Y SERIES",TCM
 
