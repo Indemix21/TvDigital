@@ -778,10 +778,6 @@ http://181.189.243.254:8000/play/a0t1/index.m3u8
 
 http://181.189.243.254:8000/play/a0sz/index.m3u8
 
-#EXTINF:-1 tvg-id="Venus" tvg-name="Venus" tvg-logo="http://2.bp.blogspot.com/-QQn_BmLVuUs/U2ebJFDQasI/AAAAAAAAlW4/5IV3hDeuhhk/s1600/venus2014.png" group-title="ADULTO",Venus
-
-http://170.83.242.9:5350/play/a00z
-
 #EXTINF:-1 tvg-id="" tvg-name="TV Adultos Live Cams" tvg-language="English" tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="XXX",TV Adultos Live Cams
 http://tvpremiumhd.club/lista-gratuita/153016/on/live.php?id=cdn.adultiptv.net/livecams.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TV Adultos MILF" tvg-language="English" tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="XXX",TV Adultos MILF
