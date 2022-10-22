@@ -777,3 +777,7 @@ http://181.189.243.254:8000/play/a0t1/index.m3u8
 #EXTINF:-1 tvg-chno="230" tvg-id="" tvg-name="Universal Reality" tvg-logo="https://universalplus.com/files/channels/120254749.png" group-title="UNIVERSAL PLUS",Universal Reality
 
 http://181.189.243.254:8000/play/a0sz/index.m3u8
+
+#EXTINF:-1 tvg-chno="231" tvg-id="" tvg-name=" Venus " tvg-logo="" group-title="Adulto",Venus
+
+http://45.232.210.1:8062/play/a0ca/index.m3u8
