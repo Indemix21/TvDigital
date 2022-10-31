@@ -748,15 +748,11 @@ http://line.powerdino.com:80/4375a1dd43/649f75a876/264986
 
 #EXTINF:-1 tvg-chno="218" tvg-id="HBOPlus.pa" tvg-name="HBOPlus.pa" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Logohboplus2019.svg/1920px-Logohboplus2019.svg.png" group-title="HBO PREMIUM",HBO Plus
 
-http://45.181.122.100:8000/play/a046/index.m3u8
+http://201.219.223.101:46000/play/a00z
 
 #EXTINF:-1 tvg-chno="220" tvg-id="HBOXtreme.pa" tvg-name="HBOXtreme.pa" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/1280px-HBO_Xtreme.svg.png" group-title="HBO PREMIUM",HBO Xtreme
 
 http://45.232.210.1:8061/play/a0fb
-
-#EXTINF:-1 tvg-chno="223" tvg-id="HBOMundi.pa" tvg-name="HBOMundi.pa" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/HBO_Mundi.svg/1280px-HBO_Mundi.svg.png" group-title="HBO PREMIUM",HBO Mundi
-
-http://181.236.192.254:8000/play/a043/index.m3u8
 
 #EXTINF:-1 tvg-chno="225" tvg-id="" tvg-name="Universal Premiere Este" tvg-logo="https://universalplus.com/files/channels/398064723.png" group-title="UNIVERSAL PLUS",Universal Premiere
 
