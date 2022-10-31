@@ -748,7 +748,7 @@ http://line.powerdino.com:80/4375a1dd43/649f75a876/264986
 
 #EXTINF:-1 tvg-chno="218" tvg-id="HBOPlus.pa" tvg-name="HBOPlus.pa" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Logohboplus2019.svg/1920px-Logohboplus2019.svg.png" group-title="HBO PREMIUM",HBO Plus
 
-http://209.45.95.18:8000/play/a016
+http://201.219.223.101:46000/play/a00z
 
 #EXTINF:-1 tvg-chno="220" tvg-id="HBOXtreme.pa" tvg-name="HBOXtreme.pa" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/1280px-HBO_Xtreme.svg.png" group-title="HBO PREMIUM",HBO Xtreme
 
