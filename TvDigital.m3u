@@ -774,7 +774,7 @@ http://181.189.243.254:8000/play/a0t1/index.m3u8
 
 http://181.189.243.254:8000/play/a0sz/index.m3u8
 
-#EXTINF:-1 ADULTO1 24H CLUB 33.4" tvg-logo="" group-title="ADULTO",ADULTO1 24H
+#EXTINF:-1 tvg-id="" tvg-name="ADULTO1 24H CLUB 33.4" tvg-logo="" group-title="ADULTO",ADULTO1 24H
 
 http://187.13.81.65:4000/play/a0fu
 
