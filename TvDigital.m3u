@@ -774,12 +774,11 @@ http://181.189.243.254:8000/play/a0t1/index.m3u8
 
 http://181.189.243.254:8000/play/a0sz/index.m3u8
 
-#EXTINF:-1 
-ADULTO1 24H CLUB 33.4" tvg-logo="" group-title="ADULTO",
+#EXTINF:-1 ADULTO1 24H CLUB 33.4" tvg-logo="" group-title="ADULTO",ADULTO1 24H
 
 http://187.13.81.65:4000/play/a0fu
 
-#EXTINF:-1 tvg-id="" tvg-name="ADULTO2 24H CLUB 33.5" tvg-logo="" group-title="ADULTO",
+#EXTINF:-1 tvg-id="" tvg-name="ADULTO2 24H CLUB 33.5" tvg-logo="" group-title="ADULTO",ADULTO2 24H
 
 http://187.13.81.65:4000/play/a0g5
 
@@ -787,6 +786,6 @@ http://187.13.81.65:4000/play/a0g5
 
 http://cdnrede.com:80/digitaladult2/digital123456/64677
 
-#EXTINF:-1 tvg-id="" tvg-name="ADULTO4 24H CLUB 33.7" tvg-logo="" group-title="ADULTO",
+#EXTINF:-1 tvg-id="" tvg-name="ADULTO4 24H CLUB 33.7" tvg-logo="" group-title="ADULTO",ADULTO4 24H
 
 http://187.13.81.65:4000/play/a0fx
