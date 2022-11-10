@@ -777,3 +777,13 @@ http://181.189.243.254:8000/play/a0sz/index.m3u8
 #EXTINF:-1 tvg-id="Venus" tvg-name="Venus" tvg-logo="http://2.bp.blogspot.com/-QQn_BmLVuUs/U2ebJFDQasI/AAAAAAAAlW4/5IV3hDeuhhk/s1600/venus2014.png" group-title="ADULTO",Venus
 
 http://170.83.242.9:5350/play/a00z
+#EXTINF:-1,ADULTO1 24H CLUB 33.4
+http://187.13.81.65:4000/play/a0fu
+#EXTINF:-1,ADULTO2 33.5
+http://187.13.81.65:4000/play/a0g5
+#EXTINF:-1,ADULTO3 24H CLUB 33.6 
+http://cdnrede.com:80/digitaladult2/digital123456/64677
+http://187.13.81.65:4000/play/a0fw
+#EXTINF:-1,ADULTO4 24 CLUB 33.7
+http://187.13.81.65:4000/play/a0fx
+
