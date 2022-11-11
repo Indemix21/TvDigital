@@ -404,7 +404,7 @@ http://181.176.148.142:8000/play/a02c
 
 #EXTINF:-1 tvg-chno="122" tvg-id="NickJr.mx" tvg-name="NickJr.mx" tvg-logo="https://davinci.zappingtv.com/gato/media/300/canales/white/nickjr.png" group-title="INFANTILES",Nick Jr
 
-http://45.232.210.1:8062/play/a0bg/index.m3u8
+http://45.167.194.11:8000/play/a00i
 
 #EXTINF:-1 tvg-chno="123" tvg-id="ETCTV.cl" tvg-name="ETCTV.cl" tvg-logo="https://static.etc.cl/_common/images/logoetc_2015.png" group-title="INFANTILES",ETC
 
