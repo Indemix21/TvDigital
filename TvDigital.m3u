@@ -385,7 +385,7 @@ http://45.232.210.1:58000/play/disneyhd
 
 #EXTINF:-1 tvg-chno="117" tvg-id="CartoonNetwork.pa" tvg-name="CartoonNetwork.pa" tvg-logo="https://i.imgur.com/tFxpJr3.png" group-title="INFANTILES",Cartoon Network
 
-http://45.233.169.25:8000/play/a00i
+http://8.243.104.159:8083/play/a00g/index.m3u8
 
 #EXTINF:-1 tvg-chno="118" tvg-id="DiscoveryKidsLatinAmerica.pa" tvg-name="DiscoveryKidsLatinAmerica.pa" tvg-logo="https://i.imgur.com/npgLM2p.png" group-title="INFANTILES",Discovery Kids
 
