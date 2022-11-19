@@ -385,7 +385,6 @@ https://v3.playerlatino.live/stream/m3u8/29
 
 #EXTINF:-1 tvg-chno="117" tvg-id="CartoonNetwork.pa" tvg-name="CartoonNetwork.pa" tvg-logo="https://i.imgur.com/tFxpJr3.png" group-title="INFANTILES",Cartoon Network
 
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
 https://v3.playerlatino.live/stream/m3u8/17
 
 #EXTINF:-1 tvg-chno="118" tvg-id="DiscoveryKidsLatinAmerica.pa" tvg-name="DiscoveryKidsLatinAmerica.pa" tvg-logo="https://i.imgur.com/npgLM2p.png" group-title="INFANTILES",Discovery Kids
