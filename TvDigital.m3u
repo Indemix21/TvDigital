@@ -401,7 +401,7 @@ http://45.225.95.170:8000/play/a0gx/index.m3u8
 
 #EXTINF:-1 tvg-chno="121" tvg-id="DisneyJunior.mx" tvg-name="DisneyJunior.mx" tvg-logo="https://i.imgur.com/7PACVjy.png" group-title="INFANTILES",Disney Junior
 
-http://181.176.148.142:8000/play/a02c
+https://v3.playerlatino.live/stream/m3u8/30
 
 #EXTINF:-1 tvg-chno="122" tvg-id="NickJr.mx" tvg-name="NickJr.mx" tvg-logo="https://davinci.zappingtv.com/gato/media/300/canales/white/nickjr.png" group-title="INFANTILES",Nick Jr
 
