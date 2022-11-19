@@ -398,7 +398,8 @@ https://v3.playerlatino.live/stream/m3u8/25
 
 #EXTINF:-1 tvg-chno="119" tvg-id="NickelodeonLatinAmereica.pa" tvg-name="NickelodeonLatinAmereica.pa" tvg-logo="https://davinci.zappingtv.com/gato/media/300/canales/white/nickelodeon.png" group-title="INFANTILES",Nickelodeon
 
-http://45.232.210.1:58000/play/a0fg
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+https://v3.playerlatino.live/stream/m3u8/184
 
 #EXTINF:-1 tvg-chno="120" tvg-id="BoomerangLatinAmerica.pa" tvg-name="BoomerangLatinAmerica.pa" tvg-logo="https://i.imgur.com/WXtT7Re.png" group-title="INFANTILES",Cartoonito
 
@@ -412,7 +413,9 @@ https://v3.playerlatino.live/stream/m3u8/30
 
 #EXTINF:-1 tvg-chno="122" tvg-id="NickJr.mx" tvg-name="NickJr.mx" tvg-logo="https://davinci.zappingtv.com/gato/media/300/canales/white/nickjr.png" group-title="INFANTILES",Nick Jr
 
-http://45.167.194.11:8000/play/a00i
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+https://v3.playerlatino.live/stream/m3u8/79
+
 
 #EXTINF:-1 tvg-chno="123" tvg-id="ETCTV.cl" tvg-name="ETCTV.cl" tvg-logo="https://static.etc.cl/_common/images/logoetc_2015.png" group-title="INFANTILES",ETC
 
