@@ -381,9 +381,7 @@ http://190.108.87.149:8000/play/a05m/index.m3u8
 
 #EXTINF:-1 tvg-chno="116" tvg-id="DisneyChannel.ar" tvg-name="DisneyChannel.ar" tvg-logo="https://i.imgur.com/pjq4xdr.png" group-title="INFANTILES",Disney Channel
 
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
 https://v3.playerlatino.live/stream/m3u8/29
-
 
 #EXTINF:-1 tvg-chno="117" tvg-id="CartoonNetwork.pa" tvg-name="CartoonNetwork.pa" tvg-logo="https://i.imgur.com/tFxpJr3.png" group-title="INFANTILES",Cartoon Network
 
