@@ -381,15 +381,20 @@ http://190.108.87.149:8000/play/a05m/index.m3u8
 
 #EXTINF:-1 tvg-chno="116" tvg-id="DisneyChannel.ar" tvg-name="DisneyChannel.ar" tvg-logo="https://i.imgur.com/pjq4xdr.png" group-title="INFANTILES",Disney Channel
 
-http://45.232.210.1:58000/play/disneyhd
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+https://v3.playerlatino.live/stream/m3u8/29
+
 
 #EXTINF:-1 tvg-chno="117" tvg-id="CartoonNetwork.pa" tvg-name="CartoonNetwork.pa" tvg-logo="https://i.imgur.com/tFxpJr3.png" group-title="INFANTILES",Cartoon Network
 
-http://45.232.210.1:58000/play/a05i
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+https://v3.playerlatino.live/stream/m3u8/17
 
 #EXTINF:-1 tvg-chno="118" tvg-id="DiscoveryKidsLatinAmerica.pa" tvg-name="DiscoveryKidsLatinAmerica.pa" tvg-logo="https://i.imgur.com/npgLM2p.png" group-title="INFANTILES",Discovery Kids
 
-http://45.232.210.1:58000/play/a0ak
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+https://v3.playerlatino.live/stream/m3u8/25
+
 
 #EXTINF:-1 tvg-chno="119" tvg-id="NickelodeonLatinAmereica.pa" tvg-name="NickelodeonLatinAmereica.pa" tvg-logo="https://davinci.zappingtv.com/gato/media/300/canales/white/nickelodeon.png" group-title="INFANTILES",Nickelodeon
 
@@ -397,10 +402,12 @@ http://45.232.210.1:58000/play/a0fg
 
 #EXTINF:-1 tvg-chno="120" tvg-id="BoomerangLatinAmerica.pa" tvg-name="BoomerangLatinAmerica.pa" tvg-logo="https://i.imgur.com/WXtT7Re.png" group-title="INFANTILES",Cartoonito
 
-http://45.225.95.170:8000/play/a0gx/index.m3u8
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+https://v3.playerlatino.live/stream/m3u8/11
 
 #EXTINF:-1 tvg-chno="121" tvg-id="DisneyJunior.mx" tvg-name="DisneyJunior.mx" tvg-logo="https://i.imgur.com/7PACVjy.png" group-title="INFANTILES",Disney Junior
 
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
 https://v3.playerlatino.live/stream/m3u8/30
 
 #EXTINF:-1 tvg-chno="122" tvg-id="NickJr.mx" tvg-name="NickJr.mx" tvg-logo="https://davinci.zappingtv.com/gato/media/300/canales/white/nickjr.png" group-title="INFANTILES",Nick Jr
