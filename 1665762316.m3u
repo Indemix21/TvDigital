@@ -396,7 +396,7 @@ http://line.powerdino.com:80/4375a1dd43/649f75a876/265163
 #EXTINF:-1 tvg-chno="198" tvg-id="NetTV.ar" tvg-name="NetTV.ar" tvg-logo="https://canalnet.tv/_templates/desktop/includes/img/_logo-alt.png" group-title="INTERNACIONALES",Net TV (Argentina)
 http://unlimited6-us.dps.live/nettv/nettv.smil/nettv/livestream1/chunks.m3u8
 #EXTINF:-1 tvg-chno="199" tvg-id="121dtv.ar" tvg-name="121dtv.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/TVP_-_Televisi%C3%B3n_P%C3%BAblica_%282021%29.svg/1920px-TVP_-_Televisi%C3%B3n_P%C3%BAblica_%282021%29.svg.png" group-title="INTERNACIONALES",TV Pública (Argentina)
-http://181.204.39.66:15002/play/a10045
+https://normie.me/tvparg
 #EXTINF:-1 tvg-chno="200" tvg-id="122dtv.ar" tvg-name="122dtv.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/Canal_9_2015.png" group-title="INTERNACIONALES",El Nueve (Argentina)
 https://2a1773fcc0c94a639b422d1cf7ba14b7.mediatailor.us-east-1.amazonaws.com/v1/manifest/4c8323052bc3dbd9aa2eba0b638d8495561e8377/JW-Octubre-Channel09/d089ecb0-522d-4b2c-8be2-650f30a9abaf/5.m3u8
 #EXTINF:-1 tvg-chno="201" tvg-id="1481dtv.cl" tvg-name="1481dtv.cl" tvg-logo="https://www.seekpng.com/png/full/223-2235434_hbo-logo-blue-hbo-logo-png-transparent.png" group-title="HBO PREMIUM",HBO Chile
