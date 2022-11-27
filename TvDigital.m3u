@@ -58,8 +58,7 @@ http://tuercatv2021.dynns.com:8080/WfpgfSGqan/acwkgz8bvs/611926
 
 #EXTINF:-1 tvg-chno="29" tvg-id="610DTSA.ar" tvg-name="610DTSA.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/DirecTV_Sports_Latin_America_%282018%29.png" group-title="DEPORTES",DIRECTV Sports
 
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/259
+http://tuercatv2021.dynns.com:8080/WfpgfSGqan/acwkgz8bvs/611911
 
 #EXTINF:-1 tvg-chno="32" tvg-id="" tvg-name="DIRECTV Sports Fight" tvg-logo="https://seeklogo.com/images/D/directv-sports-fight-logo-BBD16A544F-seeklogo.com.png" group-title="DEPORTES",DIRECTV Sports Fight
 
